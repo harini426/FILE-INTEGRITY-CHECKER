@@ -7,7 +7,6 @@
 **DURATION**: 4 WEEKS
 **MENTOR**: NEELA SANTHOSH
 
----
 
 ## 📌 Introduction
 During my Cybersecurity internship at **CodTech IT Solutions**, I developed a robust **File Integrity Checker** using Python. In the digital world, ensuring that data remains unchanged from its original state is a critical challenge. This project addresses that by using cryptographic hashing to verify whether a file has been tampered with or corrupted.
@@ -37,4 +36,3 @@ The project is built on the **SHA-256 (Secure Hash Algorithm 256-bit)**.
 - **Digital Forensics**: Proving evidence has not been altered.
 - **Malware Analysis**: Identifying known virus signatures.
 - **Blockchain**: Securing transactions.
--
