@@ -36,3 +36,7 @@ The project is built on the **SHA-256 (Secure Hash Algorithm 256-bit)**.
 - **Digital Forensics**: Proving evidence has not been altered.
 - **Malware Analysis**: Identifying known virus signatures.
 - **Blockchain**: Securing transactions.
+
+#OUTPUT
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/5627ae9f-ce25-4d75-b8f0-b6f60712ded8" />
